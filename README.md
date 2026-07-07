@@ -78,7 +78,6 @@ Permissions include:
 - Find Client
 - Transactions
 - Manage Users
-- Currency Exchange
 - Full Access
 
 ---
